@@ -18,26 +18,7 @@ In this repository, I am practicing JavaScript fundamentals including:
 - Mini Projects
 
 Each day contains a separate folder with code and notes.
-
-## 📁 Project Structure
-JS-25_days/
-│
-├── DAY-01/
-│ ├── variable.js
-│ ├── datatypes.js
-│ └── notes/
-│ └── Untitled-2025-10-22-2315.svg
-│
-├── DAY-02/
-│
-├── DAY-03/
-│
-└── ...
-
-
-
-
-
+---
 ## 🎯 Goal
 
 - Strengthen core JavaScript fundamentals
