@@ -19,8 +19,7 @@ In this repository, I am practicing JavaScript fundamentals including:
 
 Each day contains a separate folder with code and notes.
 
----
-
+## 📁 Project Structure
 JS-25_days/
 │
 ├── DAY-01/
@@ -35,7 +34,9 @@ JS-25_days/
 │
 └── ...
 
----
+
+
+
 
 ## 🎯 Goal
 
